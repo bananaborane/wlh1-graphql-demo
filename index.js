@@ -14,5 +14,5 @@ app.use('/graphql', graphqlHTTP({
 }))
 
 // start up the server
-const PORT = 3333
-app.listen(PORT, () => console.log(`listening on ${PORT} 💋`)) 
+const PORT = 3005
+app.listen(PORT, () => console.log(`listening on ${PORT} lets go baby`)) 
